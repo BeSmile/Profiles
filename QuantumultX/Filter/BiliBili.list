@@ -1,0 +1,17 @@
+# UPDATED: 2023-09-08 14:36:31
+HOST, api.biliapi.com, BiliBili
+HOST, api.biliapi.net, BiliBili
+HOST, api.bilibili.com, BiliBili
+HOST, app.biliapi.com, BiliBili
+HOST, app.biliapi.net, BiliBili
+HOST, app.bilibili.com, BiliBili
+HOST, grpc.biliapi.net, BiliBili
+HOST, m.bilibili.com, BiliBili
+HOST, upos-hz-mirrorakam.akamaized.net, BiliBili
+HOST, www.bilibili.com, BiliBili
+HOST-KEYWORD, cn-hk-eq-bcache-, BiliBili
+HOST, cache.video.iqiyi.com, BiliBili
+IP-CIDR, 116.211.202.206/32, BiliBili
+IP-CIDR, 116.211.202.216/32, BiliBili
+HOST-SUFFIX, api.mgtv.com, BiliBili
+HOST, mobileso.bz.mgtv.com, BiliBili
