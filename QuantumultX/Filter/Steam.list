@@ -6,7 +6,7 @@ HOST-SUFFIX, steamgames.com, STEAM
 HOST-SUFFIX, steamusercontent.com, STEAM
 HOST-SUFFIX, steamcontent.com, STEAM
 HOST-SUFFIX, steamstatic.com, STEAM
-HOST-SUFFIX, akamaihd.net, STEAM
+#HOST-SUFFIX, akamaihd.net, STEAM
 # 补充Steam域名
 HOST-SUFFIX, steam-chat.com, STEAM
 HOST-SUFFIX, steamserver.net, STEAM
