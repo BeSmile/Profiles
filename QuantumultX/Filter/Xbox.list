@@ -35,6 +35,8 @@ HOST-SUFFIX,xboxgamestudios.com,Xbox
 # HOST-WILDCARD,assets*.xboxlive.cn, DIRECT
 HOST,assets1.xboxlive.cn, DIRECT
 HOST,assets2.xboxlive.cn, DIRECT
+HOST,assets1.xboxlive.com, DIRECT
+HOST,assets2.xboxlive.com, DIRECT
 HOST-SUFFIX,xboxlive.cn,Xbox
 HOST-SUFFIX,xboxlive.com,Xbox
 HOST-SUFFIX,xboxone.co,Xbox
