@@ -34,12 +34,25 @@ HOST-SUFFIX,xboxgamepass.com,Xbox
 HOST-SUFFIX,xboxgamestudios.com,Xbox
 # HOST-WILDCARD,assets*.xboxlive.cn, DIRECT
 # download domain
-HOST,assets1.xboxlive.cn, DIRECT
-HOST,assets2.xboxlive.cn, DIRECT
+
 HOST,assets1.xboxlive.com, DIRECT
 HOST,assets2.xboxlive.com, DIRECT
 HOST,xvcf1.xboxlive.com, DIRECT
 HOST,xvcf2.xboxlive.com, DIRECT
+HOST,d1.xboxlive.com, DIRECT
+HOST,d2.xboxlive.com, DIRECT
+HOST,dlassets.xboxlive.com, DIRECT
+HOST,dlassets2.xboxlive.com, DIRECT
+HOST,dl.delivery.mp.microsoft.com, DIRECT
+HOST,tlu.dl.delivery.mp.microsoft.com, DIRECT
+HOST,assets1.xboxlive.cn, DIRECT
+HOST,assets2.xboxlive.cn, DIRECT
+HOST,xvcf1.xboxlive.cn, DIRECT
+HOST,xvcf2.xboxlive.cn, DIRECT
+HOST,d1.xboxlive.cn, DIRECT
+HOST,d2.xboxlive.cn, DIRECT
+HOST,dlassets1.xboxlive.cn, DIRECT
+HOST,dlassets2.xboxlive.cn, DIRECT
 # download domain
 HOST-SUFFIX,xboxlive.cn,Xbox
 HOST-SUFFIX,xboxlive.com,Xbox
