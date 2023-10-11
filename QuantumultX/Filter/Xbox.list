@@ -33,10 +33,14 @@ HOST-SUFFIX,xboxab.net,Xbox
 HOST-SUFFIX,xboxgamepass.com,Xbox
 HOST-SUFFIX,xboxgamestudios.com,Xbox
 # HOST-WILDCARD,assets*.xboxlive.cn, DIRECT
+# download domain
 HOST,assets1.xboxlive.cn, DIRECT
 HOST,assets2.xboxlive.cn, DIRECT
 HOST,assets1.xboxlive.com, DIRECT
 HOST,assets2.xboxlive.com, DIRECT
+HOST,xvcf1.xboxlive.com, DIRECT
+HOST,xvcf2.xboxlive.com, DIRECT
+# download domain
 HOST-SUFFIX,xboxlive.cn,Xbox
 HOST-SUFFIX,xboxlive.com,Xbox
 HOST-SUFFIX,xboxone.co,Xbox
