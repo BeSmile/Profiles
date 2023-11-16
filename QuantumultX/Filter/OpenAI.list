@@ -9,3 +9,5 @@ HOST-SUFFIX, auth0.com, OpenAI
 HOST-SUFFIX, identrust.com, OpenAI
 HOST-SUFFIX, intercom.io, OpenAI
 HOST-SUFFIX, openai.com, OpenAI
+HOST-SUFFIX,oaistatic.com, OpenAI
+HOST-SUFFIX,oaiusercontent.com, OpenAI
