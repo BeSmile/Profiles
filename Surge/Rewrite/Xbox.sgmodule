@@ -1,3 +1,5 @@
+#!name=Xbox
+#!desc=最后更新时间 2024-01-07 18:10:19
 [URL Rewrite]
 
 "^http:\/\/(assets1|assets2|d1|d2|xvcf1|xvcf2)\.xboxlive\.com(.*)"  http://assets1.xboxlive.cn$2 302
