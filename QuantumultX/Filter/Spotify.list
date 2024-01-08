@@ -1,3 +1,4 @@
-HOST-SUFFIX, spotify.com, RS
-HOST-SUFFIX, spotifycdn.com, RS
-HOST-SUFFIX, scdn.co, RS
+HOST-SUFFIX, spotify.com, Spotify
+HOST-SUFFIX, spotifycdn.com, Spotify
+HOST-SUFFIX, scdn.co, Spotify
+HOST-SUFFIX, conductrics.com, Spotify

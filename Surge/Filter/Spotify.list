@@ -1,3 +1,4 @@
-DOMAIN-SUFFIX, spotify.com, RS
-DOMAIN-SUFFIX, spotifycdn.com, RS
-DOMAIN-SUFFIX, scdn.co, RS
+DOMAIN-SUFFIX, spotify.com, Spotify
+DOMAIN-SUFFIX, spotifycdn.com, Spotify
+DOMAIN-SUFFIX, scdn.co, Spotify
+DOMAIN-SUFFIX, conductrics.com, Spotify
