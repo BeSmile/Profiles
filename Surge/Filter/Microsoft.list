@@ -9,3 +9,6 @@ DOMAIN-SUFFIX, office.net, Microsoft
 DOMAIN-SUFFIX, sharepointonline.com, Microsoft
 DOMAIN-SUFFIX, gfx.ms, Microsoft
 DOMAIN, cart.production.store-web.dynamics.com, Microsoft
+DOMAIN,login.microsoftonline.com,Microsoft
+DOMAIN-SUFFIX,onestore.ms,Microsoft
+DOMAIN-SUFFIX,clarity.ms,Microsoft
