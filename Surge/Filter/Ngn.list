@@ -1,0 +1,13 @@
+
+DOMAIN-SUFFIX,singular.net,NGN // MoniePoint
+DOMAIN-SUFFIX,zendesk.com,NGN // MoniePoint
+DOMAIN-SUFFIX,customer.io,NGN // MoniePoint
+DOMAIN-SUFFIX,gist.build,NGN // MoniePoint
+DOMAIN-SUFFIX,moniepoint.com,NGN // MoniePoint
+DOMAIN-SUFFIX,teamapt.com,NGN // MoniePoint
+DOMAIN-SUFFIX,gloverapp.co,NGN
+DOMAIN-SUFFIX,mtn.ng,NGN // Added for: digilytics.mtn.ng:443
+DOMAIN-SUFFIX,opayweb.com,NGN // Added for: ab-test.opayweb.com:443
+DOMAIN-SUFFIX,chippercash.com,NGN // Added for: compliance.chippercash.com:443
+DOMAIN-SUFFIX,xcoinsystem.com,NGN // kucoin
+DOMAIN-SUFFIX,kucoin.com,NGN // kucoin
