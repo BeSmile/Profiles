@@ -68,3 +68,7 @@ DOMAIN-SUFFIX,xbx.lv,Xbox
 DOMAIN-SUFFIX, live.com, Xbox
 DOMAIN-SUFFIX, msafflnk.net, Xbox
 
+IP-CIDR, 13.107.42.15/32, Xbox
+IP-CIDR, 72.246.156.9/32, Xbox
+IP-CIDR, 23.49.0.6/32, Xbox
+
