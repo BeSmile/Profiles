@@ -12,3 +12,16 @@ DOMAIN, cart.production.store-web.dynamics.com, Microsoft
 DOMAIN,login.microsoftonline.com,Microsoft
 DOMAIN-SUFFIX,onestore.ms,Microsoft
 DOMAIN-SUFFIX,clarity.ms,Microsoft
+
+
+IP-CIDR, 172.183.192.109/32, Microsoft
+IP-CIDR, 20.42.72.131/32, Microsoft
+IP-CIDR, 23.37.18.133/32, Microsoft
+IP-CIDR, 52.182.143.215/32, Microsoft
+IP-CIDR, 20.42.72.131/32, Microsoft
+
+
+
+
+
+
