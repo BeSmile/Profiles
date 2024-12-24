@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,opayweb.com,NGN // Added for: ab-test.opayweb.com:443
 DOMAIN-SUFFIX,chippercash.com,NGN // Added for: compliance.chippercash.com:443
 DOMAIN-SUFFIX,xcoinsystem.com,NGN // kucoin
 DOMAIN-SUFFIX,kucoin.com,NGN // kucoin
+DOMAIN-SUFFIX,mtnnigeria.net,NGN // mtn
