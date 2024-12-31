@@ -13,6 +13,10 @@ DOMAIN-SUFFIX,xcoinsystem.com,NGN // kucoin
 DOMAIN-SUFFIX,kucoin.com,NGN // kucoin
 DOMAIN-SUFFIX,mtnnigeria.net,NGN // mtn
 
+DOMAIN-SUFFIX,palmPay.app,NGN  // palmPay
+DOMAIN-SUFFIX,palmmerchant.com,NGN // palmPay
+DOMAIN-SUFFIX,transspay.com,NGN // palmPay
+
 DOMAIN-SUFFIX,smileidentity.com,NGN // Added for: https://api.smileidentity.com/v2/smart-selfie-enroll
 DOMAIN-SUFFIX,newrelic.com,NGN // Added for: https://mobile-collector.newrelic.com/mobile/v3/data
 DOMAIN-SUFFIX,nimc.gov.ng,NGN // Added for: tk.nimc.gov.ng:443
