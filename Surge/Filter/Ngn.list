@@ -18,6 +18,8 @@ DOMAIN-SUFFIX,palmmerchant.com,NGN // palmPay
 DOMAIN-SUFFIX,transspay.com,NGN // palmPay
 DOMAIN-SUFFIX,kuda.com,NGN // kuda
 
+DOMAIN-KEYWORD,vfdbank,NGN   //vfdbank
+
 DOMAIN-SUFFIX,ng, NGN
 
 DOMAIN-SUFFIX,smileidentity.com,NGN // Added for: https://api.smileidentity.com/v2/smart-selfie-enroll
