@@ -13,12 +13,15 @@ DOMAIN-SUFFIX,xcoinsystem.com,NGN // kucoin
 DOMAIN-SUFFIX,kucoin.com,NGN // kucoin
 DOMAIN-SUFFIX,mtnnigeria.net,NGN // mtn
 
+
+
 DOMAIN-SUFFIX,palmPay.app,NGN  // palmPay
 DOMAIN-SUFFIX,palmmerchant.com,NGN // palmPay
 DOMAIN-SUFFIX,transspay.com,NGN // palmPay
 DOMAIN-SUFFIX,kuda.com,NGN // kuda
 
 DOMAIN-KEYWORD,vfdbank,NGN   //vfdbank
+DOMAIN-KEYWORD,wemabank,NGN   //wema
 
 DOMAIN-SUFFIX,ng, NGN
 
