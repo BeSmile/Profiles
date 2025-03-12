@@ -5,8 +5,9 @@
 [Rule]
 
 [Script]
-http-response ^https?:\/\/api\.kkmh\.com\/v1\/promote\/quick_attribute requires-body=1,script-path=https://raw.githubusercontent.com/BeSmile/Profiles/feat/kk/Surge/Sgmodule/kk/bypass.js
-http-response ^https?:\/\/api\.kkmh\.com\/v1\/device\/active requires-body=1,script-path=https://raw.githubusercontent.com/BeSmile/Profiles/feat/kk/Surge/Sgmodule/kk/active.js
+# http-response ^https?:\/\/api\.kkmh\.com\/v1\/promote\/quick_attribute requires-body=1,script-path=https://raw.githubusercontent.com/BeSmile/Profiles/feat/kk/Surge/Sgmodule/kk/bypass.js
+# http-response ^https?:\/\/api\.kkmh\.com\/v1\/device\/active requires-body=1,script-path=https://raw.githubusercontent.com/BeSmile/Profiles/feat/kk/Surge/Sgmodule/kk/active.js
+http-response ^https?:\/\/pay\.kkmh\.com\/v1\/pay\/config\/limitation_tips\?good_type=.*&non_iap_supported=0 requires-body=1,script-path=https://raw.githubusercontent.com/BeSmile/Profiles/feat/kk/Surge/Sgmodule/kk/limitation.js
 
 [MITM]
 hostname = api.kkmh.com
