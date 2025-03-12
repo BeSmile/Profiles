@@ -12,8 +12,8 @@ try {
   // $logger.log(`Parsed JSON: ${JSON.stringify(obj)}`);
 
   // 检查并删除 'events' 字段
-  if (obj && obj.data && 'limitation' in obj.data) {
-    obj.data.limitation = [];
+  if (obj && obj.data && 'limitations' in obj.data) {
+    obj.data.limitations = [];
   }
 
   // 将修改后的对象转回字符串
