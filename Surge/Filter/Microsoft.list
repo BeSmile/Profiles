@@ -1,18 +1,23 @@
 DOMAIN-SUFFIX, microsoft.com, Microsoft
 DOMAIN-SUFFIX, bing.com, Microsoft
+DOMAIN-SUFFIX, bing.net, Microsoft
 DOMAIN-SUFFIX, skype.com, Microsoft
 DOMAIN-SUFFIX, azure.com, Microsoft
+DOMAIN-SUFFIX, azure.net, Microsoft
 DOMAIN-SUFFIX, azureedge.net, Microsoft
+DOMAIN-SUFFIX, azureedge.com, Microsoft
 DOMAIN-SUFFIX, windows.com, Microsoft
 DOMAIN-SUFFIX, clarity.com, Microsoft
 DOMAIN-SUFFIX, office.net, Microsoft
+DOMAIN-SUFFIX, office.com, Microsoft
 DOMAIN-SUFFIX, sharepointonline.com, Microsoft
 DOMAIN-SUFFIX, gfx.ms, Microsoft
 DOMAIN, cart.production.store-web.dynamics.com, Microsoft
 DOMAIN,login.microsoftonline.com,Microsoft
 DOMAIN-SUFFIX,onestore.ms,Microsoft
 DOMAIN-SUFFIX,clarity.ms,Microsoft
-
+DOMAIN-SUFFIX, dynamics.com,Microsoft
+DOMAIN-KEYWORD,microsoft,Microsoft   //Microsoft
 
 IP-CIDR, 172.183.192.109/32, Microsoft
 IP-CIDR, 20.42.72.131/32, Microsoft
