@@ -24,7 +24,9 @@ DOMAIN-SUFFIX,kuda.com,NGN // kuda
 DOMAIN-KEYWORD,vfdbank,NGN   //vfdbank
 DOMAIN-KEYWORD,wemabank,NGN   //wema
 
-DOMAIN-KEYWORD,chipper,Chipper   //Chipper
+DOMAIN-KEYWORD,chipper,NGN   //Chipper
+DOMAIN-KEYWORD,opay,NGN   //Opay
+DOMAIN-KEYWORD,moniepoint,NGN   //MoniePoint
 
 DOMAIN-SUFFIX,ng, NGN
 
