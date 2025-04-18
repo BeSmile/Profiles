@@ -24,6 +24,8 @@ DOMAIN-SUFFIX,kuda.com,NGN // kuda
 DOMAIN-KEYWORD,vfdbank,NGN   //vfdbank
 DOMAIN-KEYWORD,wemabank,NGN   //wema
 
+DOMAIN-KEYWORD,chipper,Chipper   //Chipper
+
 DOMAIN-SUFFIX,ng, NGN
 
 DOMAIN-SUFFIX,smileidentity.com,NGN // Added for: https://api.smileidentity.com/v2/smart-selfie-enroll
