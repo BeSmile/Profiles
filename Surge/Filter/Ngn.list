@@ -28,6 +28,11 @@ DOMAIN-KEYWORD,chipper,NGN   //Chipper
 DOMAIN-KEYWORD,opay,NGN   //Opay
 DOMAIN-KEYWORD,moniepoint,NGN   //MoniePoint
 
+DOMAIN-SUFFIX,gomoney.global,NGN // Added for: api.gomoney.global:443
+DOMAIN-SUFFIX,mypaga.com,NGN
+DOMAIN-SUFFIX,paga.com,NGN // Added for: admin.paga.com:443
+DOMAIN-SUFFIX,branch.io,NGN // Added for: api2.branch.io:443
+
 DOMAIN-SUFFIX,ng, NGN
 
 DOMAIN-SUFFIX,smileidentity.com,NGN // Added for: https://api.smileidentity.com/v2/smart-selfie-enroll
